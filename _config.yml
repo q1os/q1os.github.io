@@ -106,7 +106,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar: 
+        nav: "docs"
+        
 category_archive:
   type: liquid
   path: /categories/
