@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [天蓝隐湘]
-description: [技术只是工具]
+title: [take it easy]
+description: [快乐学习,快乐工作,累了就歇一歇,人生苦短,千万不要用力过猛]
 
 show_downloads: false
