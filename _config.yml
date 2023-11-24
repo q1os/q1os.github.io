@@ -1,8 +1,8 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [take it easy]
-description: [该学学/该玩玩/千万不要用力过猛]
+title: [技术学习笔记]
+description: [技术在于每天的点滴积累]
 
 show_downloads: false
