@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [take it easy]
-description: [快乐学习,快乐工作,累了就歇一歇,人生苦短,千万不要用力过猛]
+description: [该学学/该玩玩/千万不要用力过猛]
 
 show_downloads: false
