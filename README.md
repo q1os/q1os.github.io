@@ -1,4 +1,8 @@
-~~这是一个记录技术学习笔记的地方, 成功不会发生在一夜之间, 并且人永远不可能在多线程模式下工作,所以每次专注于一件事,并把它做好。~~
+**这是一个记录技术学习笔记的地方, 成功不会发生在一夜之间, 并且人永远不可能在多线程模式下工作,所以每次专注于一件事,并把它做好.**
+
+## 充电计划
+
+- [学习安排](https://github.com/q1os/studying)
 
 ## 方法论
 
@@ -8,7 +12,7 @@
         - 始终为你的学习做好规划
         - 参加一个学习社区
         - 多与伙伴们交流学习心得
-        - 使用更高的学习技巧: 主动回忆, 间隔重复 , 番茄钟,
+        - 使用更高的学习技巧: 主动回忆, 间隔重复 , 番茄钟
         - 不要害怕寻求帮助
         - 保持健康的生活方式
     - [怎样安排你的一天](https://www.calendar.com/blog/how-to-schedule-your-day-for-optimal-productivity/)
@@ -32,11 +36,13 @@
 
 ## 开发技术栈
 
-- [构建单体Java巨石系统](https://github.com/q1os/monolithic-for-java)
-- [分布式系统:构建高并发系统](https://github.com/q1os/distributed-for-java)
-- [大数据领域都有哪些技术](https://github.com/q1os/projects-for-bigdata)
+- [构建单体Java巨石系统技术栈](https://github.com/q1os/monolithic-for-java)
+- [高并发的分布式系统技术栈](https://github.com/q1os/distributed-for-java)
+- [大数据领域都有哪些技术栈](https://github.com/q1os/projects-for-bigdata)
 
 ## 产品思维
+
+- 产品功能点设计
 
 
 
