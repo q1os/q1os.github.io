@@ -1,4 +1,4 @@
-> 这是一个记录技术学习笔记的地方, 成功不会发生在一夜之间, 并且人永远不可能在多线程模式下工作,所以每次专注于一件事,并把它做好。
+~~这是一个记录技术学习笔记的地方, 成功不会发生在一夜之间, 并且人永远不可能在多线程模式下工作,所以每次专注于一件事,并把它做好。~~
 
 ## 方法论
 
@@ -16,14 +16,28 @@
         - 设定优先级
         - 预估花费时间
         - 更聪明的工作, 而不是更努力的工作
-
-## 系统而完整的资料
-
 - Github E-Book List
-    - 凤凰架构:https://icyfenix.cn/
-    - Hello 算法: https://www.hello-algo.com/
-    - 大数据技术及架构图解实战派(非完整版)： https://github.com/xuwei517/bigdata_ebook
-    - 深入架构原理与实践(云原生): https://github.com/isno/theByteBook
+    - [凤凰架构](https://icyfenix.cn/)
+    - [Hello 算法](https://www.hello-algo.com/)
+    - [大数据技术及架构图解实战派(非完整版)](https://github.com/xuwei517/bigdata_ebook)
+    - [深入架构原理与实践(云原生)](https://github.com/isno/theByteBook)
+
+## 开发基础
+
+- [算法](https://github.com/q1os/algroithm)
+- 网络协议: TCP, IP, Http, Https
+- 操作系统
+- 计算机组成原理
+
+
+## 开发技术栈
+
+- [构建单体Java巨石系统](https://github.com/q1os/monolithic-for-java)
+- [分布式系统:构建高并发系统](https://github.com/q1os/distributed-for-java)
+- [大数据领域都有哪些技术](https://github.com/q1os/projects-for-bigdata)
+
+## 产品思维
+
 
 
 
