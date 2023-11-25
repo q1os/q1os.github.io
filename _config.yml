@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [技术笔记]
-description: [持之以恒水滴石穿]
+description: [成功不会在一夜之间发生]
 
 show_downloads: false
