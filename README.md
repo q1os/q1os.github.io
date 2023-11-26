@@ -36,6 +36,8 @@
 
 ## 开发技术栈
 
+- [MySQL](./MySQL.md)
+
 - [构建单体Java巨石系统技术栈](https://github.com/q1os/monolithic-for-java)
 - [高并发的分布式系统技术栈](https://github.com/q1os/distributed-for-java)
 - [大数据领域都有哪些技术栈](https://github.com/q1os/projects-for-bigdata)
