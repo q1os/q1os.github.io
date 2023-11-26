@@ -46,6 +46,6 @@ driver_path = /usr/lib/chromium/chromedriver
 
 替换docker容器内的静态文件logo.svg,保存为新的镜像 ： docker commit -a "fubin5617" -m "replace logo.svg" 5394a3f43b37 ydzt/mrdoc-v1
 
-![Alt text](MrDoc%E9%83%A8%E7%BD%B2%E5%92%8C%E5%AE%B9%E5%99%A8%E5%86%85%E4%BF%AE%E6%94%B9/image.png)
+![Alt text](MrDoc部署和容器内修改/image.png)
 
 数据如何备份 : 1. 备份10.172.50.150机器 /root/mrdoc目录， 2. 备份10.172.58.26 测试数据库mrdoc 
