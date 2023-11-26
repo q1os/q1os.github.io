@@ -26,7 +26,7 @@
     - [大数据技术及架构图解实战派(非完整版)](https://github.com/xuwei517/bigdata_ebook)
     - [深入架构原理与实践(云原生)](https://github.com/isno/theByteBook)
 
-## 开发基础
+## 计算机基础
 
 - [算法](https://github.com/q1os/algroithm)
 - 网络协议: TCP, IP, Http, Https
